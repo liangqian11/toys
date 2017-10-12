@@ -1,0 +1,4 @@
+[2017-09-27 14:54:36.011] [INFO] post - url:/add/resume/record; params:undefined | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":1,"insertId":52,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+[2017-09-27 14:54:40.565] [INFO] post - url:/collect/job; params:undefined | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":1,"insertId":137,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+[2017-09-27 14:55:12.675] [INFO] post - url:/collect/job; params:undefined | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":1,"insertId":138,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+[2017-09-27 14:56:19.640] [INFO] post - url:/add/cultivate/record; params:undefined | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":1,"insertId":4,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}

@@ -1,0 +1,5 @@
+[2017-10-07 11:00:13.396] [ERROR] error - TypeError:Cannot create property 'mailer' on string 'SMTP'
+[2017-10-07 11:09:43.450] [ERROR] error - TypeError:Cannot create property 'mailer' on string 'SMTP'
+[2017-10-07 11:23:55.053] [ERROR] error - TypeError:Cannot create property 'mailer' on string 'SMTP'
+[2017-10-07 11:36:03.673] [ERROR] error - ReferenceError:message is not defined
+[2017-10-07 11:37:08.612] [ERROR] error - ReferenceError:info is not defined

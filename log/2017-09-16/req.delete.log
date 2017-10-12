@@ -1,0 +1,6 @@
+[2017-09-16 13:52:39.447] [INFO] delete - url:/history/delete | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":19,"insertId":0,"serverStatus":34,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+[2017-09-16 16:10:38.963] [INFO] delete - url:/collect/delete/1 | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":34,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+[2017-09-16 16:10:47.605] [INFO] delete - url:/collect/delete/1 | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":34,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+[2017-09-16 17:09:19.644] [INFO] delete - url:/collect/delete/5 | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":34,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+[2017-09-16 17:09:28.346] [INFO] delete - url:/collect/delete/4 | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":5,"insertId":0,"serverStatus":34,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+[2017-09-16 17:09:47.372] [INFO] delete - url:/collect/delete/1 | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":34,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}

@@ -1,0 +1,1 @@
+[2017-09-27 14:55:14.385] [INFO] delete - url:/collect/delete/17 | {"errcode":0,"errmsg":"","data":{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":34,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
